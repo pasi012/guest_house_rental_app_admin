@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112405228353",
+    "project_id": "guest-app-c3c0c",
+    "storage_bucket": "guest-app-c3c0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112405228353:android:a6dcce3f055335f7cdcfc0",
+        "android_client_info": {
+          "package_name": "com.example.guest_house_rental_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4pY4VV4S6gEoQJGxB1Lwcl0GmYHCg08s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112405228353:android:e20901f9498534facdcfc0",
+        "android_client_info": {
+          "package_name": "com.example.guest_house_rental_app_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4pY4VV4S6gEoQJGxB1Lwcl0GmYHCg08s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
