@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "112405228353",
     "project_id": "guest-app-c3c0c",
-    "storage_bucket": "guest-app-c3c0c.appspot.com"
+    "storage_bucket": "guest-app-c3c0c.firebasestorage.app"
   },
   "client": [
     {
